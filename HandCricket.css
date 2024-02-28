@@ -1,0 +1,130 @@
+body{
+  background-color:black;
+}
+.nes{
+  font-family:arial;
+  font-size:70px;
+  color:white;
+  margin-bottom:30px; 
+}
+.Reset{
+  border:2px solid white;
+  height:100px;
+  width:100px;
+  background-color:transparent;
+  border-radius:50%;
+}
+.head-container{
+  display:flex;
+}
+.main-2{
+  
+  margin-bottom:50px;
+}
+ .main-container{
+  display:flex;
+  position:relative;
+  bottom:70px;
+
+ }
+.container-1{
+display:inline-block;
+margin-left:30px;
+}
+.container-2{
+  display:inline-block;
+}
+.sub-head{
+  display:grid;
+  grid-template-columns:540px 600px;
+  column-gap: 8px;
+  
+}
+.c-4{
+  font-family:Helvetica;
+  font-size:40px;
+  color:red;
+  font-weight:bold;
+}
+.c-9{
+  font-family:Helvetica;
+  font-size:40px;
+  color:rgb(0, 255, 21);
+  font-weight:bold;
+}
+.c-1,.c-6{
+  font-family:Helvetica;
+  font-size:40px;
+  color:white;
+  font-weight:bold;
+}
+.c-2,.c-3{
+  font-family:Helvetica;
+  font-size:20px;
+  color:white;
+}
+.c-5,.c-10{
+  font-family:Helvetica;
+  font-size:35px;
+  color:white;
+}
+
+.c-7,.c-8{
+  font-family:Helvetica;
+  font-size:20px;
+  color:white;
+}
+.c-11{
+  font-family:arial;
+  color:rgb(224, 27, 175);
+  font-size:50px;
+  
+}
+.c-100{
+  font-family:arial;
+  color:rgb(24, 210, 216);
+  font-size:50px;
+  
+}
+
+.toss{
+  position: relative;
+  left:300px;
+}
+.cbat{
+  border-radius:50%;
+  border:3px solid white;
+  background-color:transparent;
+  height:100px;
+  width:100px;
+  cursor:pointer;
+}
+.chead1{
+  
+  border-radius:50%;
+  border:3px solid white;
+  background-color:white;
+  height:100px;
+  width:100px;
+  margin-right:20px;
+  margin-bottom:0px;  
+  cursor:pointer;
+}
+
+.dot{
+  height:92px;
+  width:85px;
+  border-radius:50%;
+}
+.batting{
+  margin-top:30px;
+}
+.bowling{
+  margin-top:30px;
+}
+.restart{
+  border-radius :50%;
+  border:none;
+  height:50px;
+  width:50px; 
+}
